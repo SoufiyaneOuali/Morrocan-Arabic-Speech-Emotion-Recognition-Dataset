@@ -1,5 +1,5 @@
 # Morrocan-Arabic-Speech-Emotion-Recognition-Dataset
-In this repository, you will find the dataset used for building the first  speech emotopn recognition system in the Arabic dialect, specifically the Moroccan dialect.   
+In this repository, you will find the dataset used for building the first  speech emotoin recognition system in the Arabic dialect, specifically the Moroccan dialect.   
 The dataset includes 4 commonly used emotion state (Happy, Angry, Sad, Neutral).
 
 # Note :
